@@ -41,6 +41,8 @@ const App: Component = () => {
         >
           Learn Solid
         </a>
+        <br />
+        <br />
       </header>
     </div>
   );
